@@ -33,8 +33,8 @@
             <div class="container">
                 <div class="avatar" style="background-image: url(&quot;assets/img/WhatsApp%20Image%202020-07-20%20at%2023.00.17.jpeg&quot;);"></div>
                 <div class="about-me">
-                    <p><br>Merhaba! Benim adım&nbsp;<strong>Emirhan Nas.&nbsp;</strong>Frontend ve backend teknolojilerini kullanarak WEB siteleri geliştiriyorum. WEB sitelerini oluştururken&nbsp; en güncel ve kullanışlı teknolojileri kullanımakla
-                        beraber her zaman yeniliklere açık bir bilgisayar mühendisiyim.</p><a class="btn btn-outline-primary" role="button" href="cv.php">Ayrıntılı CV</a></div>
+                    <p><br>Merhaba! Benim adım&nbsp;<strong>Emirhan Nas.&nbsp;</strong>Frontend ve backend teknolojilerini kullanarak WEB siteleri geliştiriyorum. WEB sitelerini oluştururken&nbsp; en güncel ve kullanışlı teknolojileri kullanmakla
+                        beraber yeniliklere açık bir bilgisayar mühendisiyim.</p><a class="btn btn-outline-primary" role="button" href="cv.php">Ayrıntılı CV</a></div>
             </div>
 
         </section>
