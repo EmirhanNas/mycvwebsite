@@ -98,7 +98,7 @@
                             </div>
                             <div class="col-md-6"><span class="period">09/2015 - 06/2020</span></div>
                         </div>
-                        <p class="text-muted">Tam Burslu -&nbsp; 3.30 Ortalama - Onur Belgesi</p>
+                        <p class="text-muted">Tam Burs -&nbsp; 3.30 Ortalama - Onur Belgesi</p>
                     </div>
                 </div>
                 <div class="group">
